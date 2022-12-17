@@ -93,7 +93,7 @@ public class Main
 
 //ZADANIE 5
 
-/*public class Main {
+public class Main {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         System.out.println("Podaj dwie liczby całkowite i naciśnij ENTER po każdej z nich:");
@@ -151,11 +151,11 @@ public class Main
         int wynik1 = Math.abs(wynik);
         System.out.println("Wynik mnożenia: " + wynik1);
     }
-}*/
+}
 
 //ZADANIE 6
 
-/*public class Main {
+public class Main {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         System.out.println("Wprowadź dwie liczby rzeczywiste i naciśnij ENTER po każdej z nich:");
@@ -204,7 +204,7 @@ public class Main
         System.out.println("Gdzie: " + random1 + " < " + random2 + " < " + random3);
 
     }
-}*/
+}
 
 //ZADANIE 8
 
